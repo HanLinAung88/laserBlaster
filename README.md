@@ -1,3 +1,4 @@
 # laserBlaster
 
-A VR android game where users blasts cannonballs with laser
+A VR android game where users blasts cannonball with laser in the 3D world.
+Developed by Unity
